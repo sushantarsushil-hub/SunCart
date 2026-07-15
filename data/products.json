@@ -1,0 +1,68 @@
+[
+  {
+    "id": "classic-ocean-sunglasses",
+    "name": "Classic Ocean Sunglasses",
+    "brand": "RayBan",
+    "price": 89.99,
+    "rating": 4.8,
+    "stock": 15,
+    "description": "Premium polarization shielding with a classic ocean blue metal frame. Hand-polished temples and UV400 sun protection lenses provide visual clarity and eye health under hot summer rays.",
+    "image": "/images/products/sunglasses.png",
+    "category": "Sunglasses"
+  },
+  {
+    "id": "aloe-spf50-sunscreen",
+    "name": "Organic Aloe SPF50 Sunscreen",
+    "brand": "Nivea",
+    "price": 24.50,
+    "rating": 4.6,
+    "stock": 42,
+    "description": "Ultra-light hydration formula containing natural organic aloe extracts. Absorbs quickly without greasy white residues. Provides SPF 50 broad spectrum defense against UVA and UVB rays.",
+    "image": "/images/products/sunscreen.png",
+    "category": "Sunscreen"
+  },
+  {
+    "id": "floral-summer-dress",
+    "name": "Floral Summer Dress",
+    "brand": "Nike",
+    "price": 49.00,
+    "rating": 4.5,
+    "stock": 8,
+    "description": "Light, breathable floral maxi dress woven with high-quality linen. Offers cool comfort for seaside beach walks and casual summer evening socials.",
+    "image": "/images/products/dress.png",
+    "category": "Summer Outfits"
+  },
+  {
+    "id": "wide-brim-straw-hat",
+    "name": "Wide-Brim Straw Hat",
+    "brand": "Adidas",
+    "price": 32.00,
+    "rating": 4.3,
+    "stock": 20,
+    "description": "Elegant hand-woven straw hat featuring a broad brim to shade your face and neck. Fitted with an adjustable internal sweatband and ribbon accent.",
+    "image": "/images/products/hat.png",
+    "category": "Hats"
+  },
+  {
+    "id": "insulated-water-bottle",
+    "name": "Insulated Summer Water Bottle",
+    "brand": "Nike",
+    "price": 19.99,
+    "rating": 4.7,
+    "stock": 35,
+    "description": "Double-walled vacuum insulated stainless steel flask. Keeps water ice-cold for up to 24 hours. Features a leak-proof straw lid and a durable sweat-free coat.",
+    "image": "/images/products/bottle.png",
+    "category": "Water Bottles"
+  },
+  {
+    "id": "sandproof-beach-towel",
+    "name": "Sandproof Beach Towel",
+    "brand": "RayBan",
+    "price": 28.00,
+    "rating": 4.4,
+    "stock": 18,
+    "description": "Compact microfiber towel engineered to repel sand instantly. Dries three times faster than regular cotton and folds down into a small mesh storage pouch.",
+    "image": "/images/products/towel.png",
+    "category": "Beach Accessories"
+  }
+]

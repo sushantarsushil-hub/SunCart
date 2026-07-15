@@ -1,0 +1,218 @@
+{
+  "users": [
+    {
+      "createdAt": "2026-07-14T17:26:46.170Z",
+      "updatedAt": "2026-07-14T17:26:46.170Z",
+      "email": "sushantarsushil@gmail.com",
+      "name": "oyshee",
+      "emailVerified": false,
+      "id": "6lkgguq3x4mrkxb6vu"
+    },
+    {
+      "createdAt": "2026-07-14T18:49:11.399Z",
+      "updatedAt": "2026-07-14T18:49:11.399Z",
+      "email": "sushanta@gmail.com",
+      "name": "sushanta",
+      "emailVerified": false,
+      "id": "ibz5fnza22cmrl096nc"
+    },
+    {
+      "createdAt": "2026-07-14T19:06:22.130Z",
+      "updatedAt": "2026-07-14T19:06:22.130Z",
+      "email": "sran@gmail.com",
+      "name": "red",
+      "emailVerified": false,
+      "id": "e7widsfddmjmrl0v9yu"
+    },
+    {
+      "createdAt": "2026-07-14T19:49:47.877Z",
+      "updatedAt": "2026-07-14T19:49:47.877Z",
+      "email": "red2@gmail.com",
+      "name": "Sushma2",
+      "image": "https://example.com/avatar.png",
+      "emailVerified": false,
+      "id": "q0qkoqaxblcmrl2f4ko"
+    },
+    {
+      "createdAt": "2026-07-14T21:56:33.675Z",
+      "updatedAt": "2026-07-14T21:56:33.675Z",
+      "email": "ree@gmail.com",
+      "name": "Red",
+      "emailVerified": false,
+      "id": "kluzm9ko0fmrl6y58u"
+    },
+    {
+      "createdAt": "2026-07-15T12:32:25.710Z",
+      "updatedAt": "2026-07-15T12:32:25.710Z",
+      "email": "testuser@example.com",
+      "name": "Test User",
+      "image": "https://example.com/photo.jpg",
+      "emailVerified": false,
+      "id": "wacu4zem4xnmrm28inu"
+    },
+    {
+      "createdAt": "2026-07-15T12:37:21.048Z",
+      "updatedAt": "2026-07-15T12:37:21.048Z",
+      "email": "jon@gmail.com",
+      "name": "Jhone",
+      "image": "https://www.bing.com/th/id/OIP.i4YH9hPP_yM3nXMIQDDkQwHaLL?w=193&h=292&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=ImgAns&rm=2",
+      "emailVerified": false,
+      "id": "mmrvtsmq03mrm2eujf"
+    }
+  ],
+  "sessions": [
+    {
+      "ipAddress": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+      "expiresAt": "2026-07-21T17:26:46.186Z",
+      "userId": "6lkgguq3x4mrkxb6vu",
+      "token": "Iq5dbpJjRkcAvThc7LxQqC2aE3ZVZdlM",
+      "createdAt": "2026-07-14T17:26:46.187Z",
+      "updatedAt": "2026-07-14T17:26:46.187Z",
+      "id": "gyn61ivjin7mrkxb6wd"
+    },
+    {
+      "ipAddress": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.124.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36",
+      "expiresAt": "2026-07-21T18:49:11.412Z",
+      "userId": "ibz5fnza22cmrl096nc",
+      "token": "xgbCelLHNmcy3b6Lx9uWdLZaOLnIHylg",
+      "createdAt": "2026-07-14T18:49:11.418Z",
+      "updatedAt": "2026-07-14T18:49:11.418Z",
+      "id": "t1vu0ignd3mrl096nx"
+    },
+    {
+      "ipAddress": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.124.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36",
+      "expiresAt": "2026-07-21T19:06:22.162Z",
+      "userId": "e7widsfddmjmrl0v9yu",
+      "token": "AvJvBvM1H94eWPO0D1yGQtN340W2nLN7",
+      "createdAt": "2026-07-14T19:06:22.165Z",
+      "updatedAt": "2026-07-14T19:06:22.165Z",
+      "id": "eak88068kkcmrl0v9zq"
+    },
+    {
+      "ipAddress": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "userAgent": "node",
+      "expiresAt": "2026-07-21T19:49:47.898Z",
+      "userId": "q0qkoqaxblcmrl2f4ko",
+      "token": "oH0LQxqIlci59Wr7tfAhLgDZH9pNxjwA",
+      "createdAt": "2026-07-14T19:49:47.903Z",
+      "updatedAt": "2026-07-14T19:49:47.903Z",
+      "id": "k8qqpifd6hmrl2f4ld"
+    },
+    {
+      "ipAddress": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.128.1 Chrome/148.0.7778.271 Electron/42.5.0 Safari/537.36",
+      "expiresAt": "2026-07-21T21:56:33.710Z",
+      "userId": "kluzm9ko0fmrl6y58u",
+      "token": "XaXIrjX9HaH1JSAzN1QeUF92nKUfo53K",
+      "createdAt": "2026-07-14T21:56:33.722Z",
+      "updatedAt": "2026-07-14T21:56:33.722Z",
+      "id": "358wlyzhgf3mrl6y5aa"
+    },
+    {
+      "ipAddress": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "expiresAt": "2026-07-22T12:32:25.781Z",
+      "userId": "wacu4zem4xnmrm28inu",
+      "token": "OdNwcSzrbxBwL6Mz3gEI2W6pRzpEJSrA",
+      "createdAt": "2026-07-15T12:32:25.783Z",
+      "updatedAt": "2026-07-15T12:32:25.783Z",
+      "id": "0uupw8rrtejrmrm28ipm"
+    },
+    {
+      "ipAddress": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+      "expiresAt": "2026-07-22T12:37:21.064Z",
+      "userId": "mmrvtsmq03mrm2eujf",
+      "token": "aY0HlnS7ownsk0pCQMZ7iT3bG4CHi9O0",
+      "createdAt": "2026-07-15T12:37:21.065Z",
+      "updatedAt": "2026-07-15T12:37:21.065Z",
+      "id": "2llpy5hflqsmrm2euju"
+    }
+  ],
+  "accounts": [
+    {
+      "createdAt": "2026-07-14T17:26:46.172Z",
+      "updatedAt": "2026-07-14T17:26:46.172Z",
+      "userId": "6lkgguq3x4mrkxb6vu",
+      "providerId": "credential",
+      "accountId": "6lkgguq3x4mrkxb6vu",
+      "password": "40c9e6dcf465d48174a1fa6ecb9be5fa:f42d6e7593d6c5f4a8ab2e0bb0908ba7a1495983587a8cb1485976138842fa5f35d171ce61dc18b79516eacb2cbb8f0099abc57d8b21f1ffa7ea893df33acbfc",
+      "id": "f12kshfajirmrkxb6vx"
+    },
+    {
+      "createdAt": "2026-07-14T18:49:11.403Z",
+      "updatedAt": "2026-07-14T18:49:11.403Z",
+      "userId": "ibz5fnza22cmrl096nc",
+      "providerId": "credential",
+      "accountId": "ibz5fnza22cmrl096nc",
+      "password": "995511110aef25b57215f518be794ef4:de1c04f4806925206a9a24e27dd71c88b57007b541ed4fddf22e89265ac0e8fc1808c13928beab1f91f892d5ff8d7f36a5e5fb8b9d5f50498a6b65738fbd3830",
+      "id": "znw3ttejb9mrl096ni"
+    },
+    {
+      "createdAt": "2026-07-14T19:06:22.143Z",
+      "updatedAt": "2026-07-14T19:06:22.143Z",
+      "userId": "e7widsfddmjmrl0v9yu",
+      "providerId": "credential",
+      "accountId": "e7widsfddmjmrl0v9yu",
+      "password": "ffd205db20b6fdf452e651143f1f3819:559895517301964ee37ac4683c9275439fd4820c19cc95c3941752e84118291784046b729a65a0df8b283aedaf66dbdf6713aa116736ecfd8e7bccc015959753",
+      "id": "cz8id6q8glmmrl0v9z5"
+    },
+    {
+      "createdAt": "2026-07-14T19:49:47.883Z",
+      "updatedAt": "2026-07-14T19:49:47.883Z",
+      "userId": "q0qkoqaxblcmrl2f4ko",
+      "providerId": "credential",
+      "accountId": "q0qkoqaxblcmrl2f4ko",
+      "password": "9a6705c6abed27a4de7bf8e1e7eb1421:c8648a83a3fe86fe604a73c6153cb01669e103edd4d2f5547816b51c93e108a46f37ec5e25ddb35bfb1cb3615ac7170802a55877a25fa1aece86eb2b99e1493b",
+      "id": "crbqho4rxgumrl2f4kt"
+    },
+    {
+      "createdAt": "2026-07-14T21:56:33.686Z",
+      "updatedAt": "2026-07-14T21:56:33.686Z",
+      "userId": "kluzm9ko0fmrl6y58u",
+      "providerId": "credential",
+      "accountId": "kluzm9ko0fmrl6y58u",
+      "password": "3e204c72f6da2b6dca27b7787a195876:f9010971ed6d68d5882309a2907ab30766642900877e8ca76d0d43f470af1f93beee6c3b70b4d3e5b42eea7a7880f24da188ec03194cfe5f8c77b9ae187510a8",
+      "id": "uj9l2lo2eo8mrl6y597"
+    },
+    {
+      "createdAt": "2026-07-15T12:32:25.736Z",
+      "updatedAt": "2026-07-15T12:32:25.736Z",
+      "userId": "wacu4zem4xnmrm28inu",
+      "providerId": "credential",
+      "accountId": "wacu4zem4xnmrm28inu",
+      "password": "c100d1a723ad849638a34351a79c053e:330436c1c517edb15ec36ab940096b82861537bb015316a3839fb1c8b76c91e52b026c780898e6e01bdc562cf76a87955dcf1f801696feb97ebb04bb295e91ee",
+      "id": "3dkjfk2eopmrm28iok"
+    },
+    {
+      "createdAt": "2026-07-15T12:37:21.055Z",
+      "updatedAt": "2026-07-15T12:37:21.055Z",
+      "userId": "mmrvtsmq03mrm2eujf",
+      "providerId": "credential",
+      "accountId": "mmrvtsmq03mrm2eujf",
+      "password": "f0a9aedf6cb055eccac0454bb26f59b6:5ac10e248858c51b95d34ec2e983a33d2f23a2967d3b2ddf31e137b31de105381750f88ef53b3c8ba4dc6d977eb8a7ef00c7603f3b8eb969c864a148a5ce8c9a",
+      "id": "2s6htlkq3pjmrm2eujk"
+    }
+  ],
+  "verifications": [
+    {
+      "createdAt": "2026-07-14T17:25:38.021Z",
+      "updatedAt": "2026-07-14T17:25:38.021Z",
+      "value": "{\"callbackURL\":\"http://localhost:3000\",\"codeVerifier\":\"rUDrdGiZJ1ktpWZ4aXVlhxwwqaF6KpOh4gM7XMKfkpz_-M4sy_1h-ToP__hCiIfb-u0D2HeQr4YwZNTxL25Qx4Xym14lJS2DSJxe81Whz-Q5g3tsSXgktA-LJYUJW-X7\",\"expiresAt\":1784050538008,\"oauthState\":\"mv0ZHmlth293Z1FdDtQHdpXyHQlEa-DC\"}",
+      "identifier": "mv0ZHmlth293Z1FdDtQHdpXyHQlEa-DC",
+      "expiresAt": "2026-07-14T17:35:38.019Z",
+      "id": "9gemzc1qjrumrkx9qaw"
+    },
+    {
+      "createdAt": "2026-07-15T12:38:01.960Z",
+      "updatedAt": "2026-07-15T12:38:01.960Z",
+      "value": "{\"callbackURL\":\"http://localhost:3000\",\"codeVerifier\":\"fDLeraPngZHpC28DfhIJm4PxSi0yG4MgSz_hKucckol1lvjNlwGLwb0q_c2ywiNEtTLWSv7usBsPJ2xABmteJTxIucBMSAC5jsDXpYthLZXZrSbUrSNZ97QBwykaDCDO\",\"expiresAt\":1784119681956,\"oauthState\":\"kQ1iH3IMQyt8HuxEQTO-16Lke1pZlBMY\"}",
+      "identifier": "kQ1iH3IMQyt8HuxEQTO-16Lke1pZlBMY",
+      "expiresAt": "2026-07-15T12:48:01.959Z",
+      "id": "dnf2s5upz45mrm2fq3t"
+    }
+  ]
+}
