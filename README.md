@@ -6,13 +6,13 @@ A modern and responsive summer eCommerce web application built with **Next.js** 
 
 ## 🌐 Live Demo
 
-🔗 Live Site: https://your-live-site-url.vercel.app
+🔗 Live Site: https://preeminent-tarsier-8d1b1b.netlify.app/
 
 ---
 
 ## 📂 GitHub Repository
 
-🔗 Client Repository: https://github.com/your-username/suncart
+🔗 Repository: https://github.com/sushantarsushil-hub/SunCart/tree/main
 
 ---
 
@@ -153,35 +153,6 @@ Example:
 
 ---
 
-# 📁 Folder Structure
-
-```
-app/
-│
-├── login/
-├── register/
-├── profile/
-├── products/
-├── product/[id]/
-│
-components/
-│
-├── Navbar
-├── Footer
-├── Hero
-├── ProductCard
-├── PopularProducts
-├── SummerTips
-├── TopBrands
-│
-data/
-│
-└── products.json
-│
-public/
-│
-styles/
-```
 
 ---
 
@@ -400,8 +371,6 @@ _Add Screenshot_
 **Sushanta Ranjan Sushil**
 
 Frontend Developer
-
-GitHub: https://github.com/your-username
 
 LinkedIn: https://linkedin.com/in/your-profile
 
